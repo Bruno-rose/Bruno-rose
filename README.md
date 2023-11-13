@@ -12,7 +12,7 @@ I'm excited about the new possibilities that technology is providing us to solve
 
 - ⌨️ I worked part-time as a software developer at [PSINet](https://psinet.cl/) for a year.
 
-- ✨ Additionally, I undertook a 6-month musical and educational project in three countries across South America.
+- ✨ Additionally, I undertook a 6-month [musical and educational project](https://www.instagram.com/dzaritmik/) in three countries across South America.
 
 
 ## ⚡ Technologies
