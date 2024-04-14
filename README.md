@@ -2,11 +2,11 @@
 
 I'm a computer scientist and developer who is passionate about running, discovering music, and playing the saxophone.
 
-I'm excited about the new possibilities that technology is providing us to solve significant problems, especially in the realms of big data, medical applications and education.
+I'm excited about the new possibilities that technology is providing us to solve significant problems, especially in the realms of big data, medical applications, finance and education.
 
-- 🎓 Currently, I'm working on my M.Eng thesis at [IMFD](https://imfd.cl/en/) and [University of Chile](https://uchile.cl/).
+- 💻  Right now, I'm employed as a Software Developer at [Fintual](https://fintual.cl/).
 
-- 💻 My current project involves building a framework to create private data abstractions for big data.
+- 🎓 My M.Eng thesis at [IMFD](https://imfd.cl/en/) and [University of Chile](https://uchile.cl/) involved building a framework to create private data abstractions for big data.
 
 - 📝 I had the opportunity to complete half of my studies abroad and get an engineering degree at [Centrale Supélec](https://www.centralesupelec.fr/), Paris.
 
