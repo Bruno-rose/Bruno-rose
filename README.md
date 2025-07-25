@@ -4,7 +4,9 @@ I'm a computer scientist and developer who is passionate about running, discover
 
 I'm excited about the new possibilities that technology is providing us to solve significant problems, especially in the realms of big data, medical applications, finance and education.
 
-- 💻  Right now, I'm employed as a Software Developer at [Fintual](https://fintual.cl/).
+- 💻  Right now, I'm a founding engineer at a startup on Real Estate.
+
+- 💰  I worked as a Software Developer at [Fintual](https://fintual.cl/).
 
 - 🎓 My M.Eng thesis at [IMFD](https://imfd.cl/en/) and [University of Chile](https://uchile.cl/) involved building a framework to create private data abstractions for big data.
 
